@@ -1,0 +1,81 @@
+[{
+  "questionId":1,
+  "text": "abc",
+  "subject": "Maths",
+  "topic": "Integer",
+  "difficulty": "EASY",
+  "marks": 10
+},
+  {
+    "questionId":2,
+    "text": "abc",
+    "subject": "Maths",
+    "topic": "Integer",
+    "difficulty": "EASY",
+    "marks": 5
+  },
+  {
+    "questionId":3,
+    "text": "abc",
+    "subject": "Maths",
+    "topic": "Integer",
+    "difficulty": "MEDIUM",
+    "marks": 40
+  },
+  {
+    "questionId":4,
+    "text": "abc",
+    "subject": "Maths",
+    "topic": "Integer",
+    "difficulty": "MEDIUM",
+    "marks": 50
+  },
+  {
+    "questionId":5,
+    "text": "abc",
+    "subject": "Maths",
+    "topic": "Integer",
+    "difficulty": "MEDIUM",
+    "marks": 10
+  },
+  {
+    "questionId":6,
+    "text": "abc",
+    "subject": "Maths",
+    "topic": "Integer",
+    "difficulty": "HARD",
+    "marks": 10
+  },
+  {
+    "questionId":7,
+    "text": "abc",
+    "subject": "Maths",
+    "topic": "Integer",
+    "difficulty": "HARD",
+    "marks": 70
+  },
+  {
+    "questionId":8,
+    "text": "abc",
+    "subject": "Maths",
+    "topic": "Integer",
+    "difficulty": "HARD",
+    "marks": 10
+  },
+  {
+    "questionId":9,
+    "text": "abc",
+    "subject": "Maths",
+    "topic": "Integer",
+    "difficulty": "EASY",
+    "marks": 10
+  },
+  {
+    "questionId":10,
+    "text": "abc",
+    "subject": "Maths",
+    "topic": "Integer",
+    "difficulty": "HARD",
+    "marks": 10
+  }
+]
